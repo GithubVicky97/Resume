@@ -1,0 +1,95 @@
+*{
+  margin: 0px;
+    width: 100%;
+    height: auto;
+   
+}
+.box{
+    margin: 0px;
+    padding: 0%;
+    background-color: #ddcfcf69;
+}
+.container{
+    width: 100%;
+    height: auto;
+    
+}
+.main{
+    width: 100%;
+    height: auto;
+}
+.Info{
+    height:200px ;
+}
+.Head{
+    text-align: center;
+    font-weight: 100;
+}
+.image{
+    width: 110px;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+   border: 1px solid;
+   border-radius: 3px;
+    top: 5;
+    position: absolute;
+    left: 1078px;
+    top: 55px;
+}
+.info{
+    margin-top: 92px;
+    margin-left: 2px;
+    font-size: larger;
+}
+.prof{
+    height: 80px;
+    padding-top: 10px;
+}
+.curriculam{
+    width: 50%;
+    height: 174px;
+    word-wrap: normal;
+    white-space: nowrap;
+    /* padding-top: 29px; */
+    padding-bottom: 10px;
+}
+.profile{
+    padding-bottom: 17px;
+    padding-top: 15px;
+}
+.curriculam .table,th,td{
+    border: 1px solid;
+    width: 50%;
+}
+thead{
+  
+    height: 46px;
+}
+tbody{
+    width: 60%;
+}
+.skills .technical{
+    height: 117px;
+    padding-top: 16px;
+    list-style: bullets;
+}
+.skills .extra{
+    height: 117px;
+    padding-top: 16px;
+}
+.skills .achive{
+    height: 125px;
+    padding-top: 16px;
+}
+.skills .personal{
+    height: 155px;
+    padding-top: 16px;
+}
+/* ul{
+
+} */
+h2{
+    padding-bottom: 17px;
+    text-decoration: underline;
+}
